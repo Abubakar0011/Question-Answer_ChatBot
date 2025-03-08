@@ -14,7 +14,7 @@ Ensure you have **Python 3.8+** installed.
 
 ### 1. Clone this repository
 ```sh
-git clone https://github.com/yourusername/gemini-chatbot.git
+git clone https://github.com/Abubakar0011/Question-Answer_ChatBot.git
 cd gemini-chatbot
 ```
 
